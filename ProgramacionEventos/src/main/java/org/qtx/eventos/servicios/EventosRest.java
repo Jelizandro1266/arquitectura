@@ -166,8 +166,5 @@ public class EventosRest {
 		return fallosEntrada;
 	}
 	
-	private void validarEventoExistente(int idEvento) {
-		
-	}
 	
 }
